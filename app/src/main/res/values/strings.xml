@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">eCommerce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">Sign In</string>
+    <string name="or">OR</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="Sign_In">Sign in</string>
+    <string name="forget_password">Forget password</string>
+    <string name="welcome_back_please_enter_your_detail">Welcome back!Please enter your detail</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="sign_Up">Sign Up</string>
+    <string name="welcome_back_please_enter_your_Detail">Welcome back!Please enter your detail</string>
+    <string name="Email">Email</string>
+    <string name="user_name">User name</string>
+    <string name="create_a_password">Create a password</string>
+    <string name="create_account">Create account</string>
+    <string name="user_nName">User name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_in">Log in</string>
+</resources>
