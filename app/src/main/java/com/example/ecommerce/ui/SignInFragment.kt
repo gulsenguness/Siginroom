@@ -52,7 +52,7 @@ class SignInFragment : Fragment(R.layout.fragment_sign_in) {
                 val user = userDAO.login(usernamein,passwordin)
                 if (user != null) {
                     binding.signin.setOnClickListener{
-                        findNavController().navigate(R.id.salesPageFragment)
+                        findNavController().navigate(R.id.sales)
                     }
                 } else {
                     Toast.makeText(requireContext(), "Invalid credentials", Toast.LENGTH_SHORT).show()

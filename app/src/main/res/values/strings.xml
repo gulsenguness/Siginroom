@@ -22,4 +22,9 @@
     <string name="user_nName">User name</string>
     <string name="already_have_an_account">Already have an account?</string>
     <string name="log_in">Log in</string>
+    <string name="sales">sales</string>
+    <string name="favorites">favorites</string>
+    <string name="mycard">mycard</string>
+    <string name="myaccount">myaccount</string>
+    <string name="myfavorites">myfavorites</string>
 </resources>

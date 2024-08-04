@@ -14,8 +14,9 @@
             android:id="@+id/SignIntoSignUp"
             app:destination="@id/signUpFragment" />
         <action
-            android:id="@+id/signintosales"
-            app:destination="@id/salesPageFragment" />
+            android:id="@+id/signintosale"
+            app:destination="@id/sales" />
+
     </fragment>
     <fragment
         android:id="@+id/signUpFragment"
@@ -27,8 +28,9 @@
             app:destination="@id/signInFragment" />
     </fragment>
     <fragment
-        android:id="@+id/salesPageFragment"
+        android:id="@+id/sales"
         android:name="com.example.ecommerce.ui.SalesPageFragment"
         android:label="fragment_sales_page"
         tools:layout="@layout/fragment_sales_page" />
+
 </navigation>
